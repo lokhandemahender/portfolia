@@ -1,0 +1,22 @@
+.img-user{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.about-me{
+    font-size: 20px;
+}
+.ico-social-container{
+    background-color: white;
+    padding:20px;
+    border-radius:50%;
+    box-shadow: 0 0 10px #000;
+    display: inline-block;
+    height: 80px;
+    width:80 px;
+}
+.ico-social{
+    height: 50px;
+    width: 50px;
+}
